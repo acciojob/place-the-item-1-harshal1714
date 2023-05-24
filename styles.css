@@ -1,28 +1,22 @@
+
+/* Your CSS Code here. */
 .holder{
 	display:flex;
-	justify-item:space-between;
+	justify-content:space-between;
 	flex-wrap:wrap;
-/* 	padding:10px 30px; */
 }
-.holder .item1{
+.item-3{
 	width:90px;
 	height:90px;
-	margin:5px;
-	font-size:40px;
 	background-color:green;
 }
-.holder .item2{
+.item-1{
 	width:90px;
 	height:90px;
-	margin:5px;
-	font-size:40px;
 	background-color:red;
 }
-.holder .item3{
+.item-2{
 	width:90px;
 	height:90px;
-	margin:5px;
-	font-size:40px;
 	background-color:blue;
 }
-/* Your CSS Code here. */
